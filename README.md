@@ -40,7 +40,7 @@ Leading projects of:
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Computer vision with YOLOv4:  Identification of medical records</h3>
+<h3 align="center">Computer vision with YOLOv4:  Identification of Medical Records</h3>
 <div align="center">
 
 
@@ -58,7 +58,7 @@ Leading projects of:
 </td>
 
 <td width="50%">
-<h3 align="center">LLama-2_LLM_FineTuning</h3>
+<h3 align="center">LLMs Fine-Tuning: Optimization in generating reports by reading and processing Medical Records with Llama-2 </h3>
 <div align="center">                                       
 
 ![image](https://github.com/joancamilo1/joancamilo1/assets/105089010/ceccc1ee-ad94-48dc-9b3a-42d66619cc41)
