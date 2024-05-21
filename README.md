@@ -3,7 +3,7 @@
 <h1 align="center">Hi, i'm <a href="https://www.linkedin.com/in/joancamilotamayo/">Joan</a> 👋</h1>
 <!-- <img src="https://imgur.com/QMwBsJr.png" > -->
 
-![20210315_182331](https://github.com/joancamilo1/joancamilo1/assets/105089010/f21fcb22-3c3a-47ef-8e25-88f58fbf0d11)
+![20210315_182331](https://github.com/joancamilo1/joancamilo1/assets/105089010/0a56d2a4-4df6-4eb2-8d7c-6080003224f1)
 
 
 </div>
