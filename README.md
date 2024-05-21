@@ -1,4 +1,9 @@
 ## Hi there 👋
+<div align="center">
+<h1 align="center">Hi, i'm <a href="www.linkedin.com/in/joancamilotamayo">Joan</a> 👋</h1>
+</div>
+<img src="https://imgur.com/oGbnbdg">
+
 
 # 💫 About Me:
 🔭 I’m currently working on: Leading projects in data science, including computer vision, data mining for fraud detection, natural language processing, and large language models fine-tuning at Procesos Inteligentes LTDA.<br><br>👯 I’m looking to collaborate on: Innovative projects involving data analytics, machine learning, and artificial intelligence that require expertise in Python, AWS, and cloud computing.<br><br>🤝 I’m looking for help with: Enhancing my skills in advanced machine learning techniques and exploring new tools for big data processing and visualization.<br><br>🌱 I’m currently learning: Advanced applications of machine learning and deep learning, as well as exploring new cloud services and ETL tools.<br><br>💬 Ask me about: Data Mining, Data science projects, machine learning algorithms, cloud computing with AWS and Azure, and my experience with ETL processes.<br><br>⚡ I have a keen interest in how computational neuroscience intersects with artificial intelligence to solve complex data problems.
@@ -19,5 +24,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=joancamilo1&icon=2&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
