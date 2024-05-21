@@ -4,6 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joancamilotamayo) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/happyy_account)
+[![](https://visitcount.itsvg.in/api?id=joancamilo1&icon=2&color=1)](https://visitcount.itsvg.in)
 
 <!-- <img src="https://imgur.com/QMwBsJr.png" > -->
 ![20210315_182331](https://github.com/joancamilo1/joancamilo1/assets/105089010/0a56d2a4-4df6-4eb2-8d7c-6080003224f1)
@@ -17,7 +18,7 @@
 
 I have achieved notable successes in computer vision, LLMs fine-tuning, data mining, fraud detection, and natural language processing. Key competencies include data integration and modeling, as well as the creation and management of SQL databases.
 
-👨🏻‍💼🔭 Currently working at Procesos Inteligentes LTDA. <br><br>
+### 👨🏻‍💼🔭 Currently working at Procesos Inteligentes LTDA. <br><br>
 Leading projects of:
    - Computer vision: Leading the automatic detection of medical records in a 150k image database for
    for hospitals in Perú.
@@ -78,12 +79,9 @@ Leading projects of:
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=joancamilo1&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=joancamilo1&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=joancamilo1&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=joancamilo1&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
+![](https://github-readme-stats.vercel.app/api?username=joancamilo1&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=joancamilo1&theme=dark&hide_border=false) 
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=joancamilo1&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact) -->
+<!-- <img src="https://imgur.com/QMwBsJr.png" > -->
 ---
-[![](https://visitcount.itsvg.in/api?id=joancamilo1&icon=2&color=1)](https://visitcount.itsvg.in)
+
