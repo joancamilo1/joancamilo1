@@ -66,6 +66,10 @@ Leading projects of:
 
 <p>
 <a href="https://github.com/joancamilo1/LLama-2_LLM_FineTuning" target="_blank">
+   
+![image](https://github.com/joancamilo1/joancamilo1/assets/105089010/5d13e547-7c67-49b2-af10-195f54068d77)
+
+<img src="https://github.com/joancamilo1/joancamilo1/assets/105089010/5d13e547-7c67-49b2-af10-195f54068d77">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
 
