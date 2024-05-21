@@ -10,7 +10,9 @@
 
 # 💫 About Me:
 
-I'm a Mechatronics Engineer with a PgD. in Big Data Analytics and 2 years of experience leading analytical and data mining projects. Specialized in data science, excelling in Python 🐍, R 💻, knime ⚙️, snowflake ❄️, Power Bi 📊 and cloud technologies ☁️ such as AWS EC2 and S3. I have achieved notable successes in computer vision, LLMs fine-tuning, data mining, fraud detection, and natural language processing. Key competencies include data integration and modeling, as well as the creation and management of SQL databases.
+I'm a Mechatronics Engineer with a PgD. in Big Data Analytics and 2 years of experience leading analytical and data mining projects. Specialized in data science, excelling in Python 🐍, R 💻, knime ⚙️, snowflake ❄️, Power Bi 📊 and cloud technologies such as AWS EC2 and S3 ☁️
+
+. I have achieved notable successes in computer vision, LLMs fine-tuning, data mining, fraud detection, and natural language processing. Key competencies include data integration and modeling, as well as the creation and management of SQL databases.
 
 🔭 currently working at Procesos Inteligentes LTDA.<br><br>👯 I’m looking to collaborate on: Innovative projects involving data analytics, machine learning, and artificial intelligence that require expertise in Python, AWS, and cloud computing.<br><br>🤝 I’m looking for help with: Enhancing my skills in advanced machine learning techniques and exploring new tools for big data processing and visualization.<br><br>🌱 I’m currently learning: Advanced applications of machine learning and deep learning, as well as exploring new cloud services and ETL tools.<br><br>💬 Ask me about: Data Mining, Data science projects, machine learning algorithms, cloud computing with AWS and Azure, and my experience with ETL processes.<br><br>⚡ I have a keen interest in how computational neuroscience intersects with artificial intelligence to solve complex data problems.
 
