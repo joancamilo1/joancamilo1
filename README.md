@@ -6,8 +6,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/happyy_account)
 [![](https://visitcount.itsvg.in/api?id=joancamilo1&icon=2&color=1)](https://visitcount.itsvg.in)
 
-<!-- <img src="https://imgur.com/QMwBsJr.png" > -->
-![20210315_182331](https://github.com/joancamilo1/joancamilo1/assets/105089010/0a56d2a4-4df6-4eb2-8d7c-6080003224f1)
+<!-- ![20210315_182331](https://github.com/joancamilo1/joancamilo1/assets/105089010/0a56d2a4-4df6-4eb2-8d7c-6080003224f1)-->
+![joan_Banner2](https://github.com/joancamilo1/joancamilo1/assets/105089010/0f901aa5-82e4-4b62-a774-7557f78094f7)
 
 </div>
 
