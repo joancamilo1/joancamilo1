@@ -1,13 +1,15 @@
 
 <div align="center">
-<h1 align="center">Hi, i'm <a href="https://www.linkedin.com/in/joancamilotamayo/">Joan</a> 👋</h1>
-<!-- <img src="https://imgur.com/QMwBsJr.png" > -->
+<h1 align="center"> 👋 Hi, i'm <a href="https://www.linkedin.com/in/joancamilotamayo/">Joan</a> 👨‍🔬👨🏻‍💻</h1>
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joancamilotamayo) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/happyy_account)
+
+<!-- <img src="https://imgur.com/QMwBsJr.png" > -->
 ![20210315_182331](https://github.com/joancamilo1/joancamilo1/assets/105089010/0a56d2a4-4df6-4eb2-8d7c-6080003224f1)
 
 </div>
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/happyy_account) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joancamilotamayo) 
+
 
 # 💫 About Me:
 
