@@ -1,8 +1,8 @@
 ## Hi there 👋
 <div align="center">
-<h1 align="center">Hi, i'm <a href="www.linkedin.com/in/joancamilotamayo">Joan</a> 👋</h1>
+<h1 align="center">Hi, i'm <a href="https://www.linkedin.com/in/joancamilotamayo/">Joan</a> 👋</h1>
 </div>
-<img src="https://imgur.com/oGbnbdg">
+<img src="https://imgur.com/oGbnbdg.png">
 
 
 # 💫 About Me:
