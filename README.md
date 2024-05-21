@@ -1,7 +1,7 @@
 
 <div align="center">
 <h1 align="center">Hi, i'm <a href="https://www.linkedin.com/in/joancamilotamayo/">Joan</a> 👋</h1>
-<img src="https://imgur.com/QMwBsJr.png">
+<img src="https://imgur.com/QMwBsJr.png"  height="200">
 </div>
 
 # 💫 About Me:
