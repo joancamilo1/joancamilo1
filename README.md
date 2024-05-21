@@ -48,7 +48,7 @@ Leading projects of:
 
 <p>
 <a href="https://github.com/joancamilo1/Computer_vision_YoloV4" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://github.com/joancamilo1/joancamilo1/assets/105089010/e69ebe03-4bc2-4f1f-8114-cfaabd5dfac6"  style="height: 35px; border-radius: 5px">
 </a>
 
 </p>
@@ -67,10 +67,11 @@ Leading projects of:
 <p>
 <a href="https://github.com/joancamilo1/LLama-2_LLM_FineTuning" target="_blank">
    
-![image](https://github.com/joancamilo1/joancamilo1/assets/105089010/5d13e547-7c67-49b2-af10-195f54068d77)
+<!--![image](https://github.com/joancamilo1/joancamilo1/assets/105089010/5d13e547-7c67-49b2-af10-195f54068d77)-->
 
-<img src="https://github.com/joancamilo1/joancamilo1/assets/105089010/5d13e547-7c67-49b2-af10-195f54068d77">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://github.com/joancamilo1/joancamilo1/assets/105089010/e69ebe03-4bc2-4f1f-8114-cfaabd5dfac6"  style="height: 35px; border-radius: 5px">
+<!--<img src="https://github.com/joancamilo1/joancamilo1/assets/105089010/5d13e547-7c67-49b2-af10-195f54068d77">-->
+<!--<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">-->
 </a>
 
 </p>
@@ -89,3 +90,6 @@ Leading projects of:
 <!-- <img src="https://imgur.com/QMwBsJr.png" > -->
 ---
 
+<p align="center">
+ <img width="1000" src="github-snake.svg" alt="snake"/>
+</p>
