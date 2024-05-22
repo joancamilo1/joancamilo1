@@ -52,7 +52,7 @@ Leading projects of:
 </a>
 
 </p>
-<p>YOLOv4 architecture was employed to enhance the identification of medical records for a hospital in Peru. Initially, images were extracted from PDF documents. Subsequently, YOLOv4 was utilized to identify and segment the clinical history sections within these images. Finally, AWS Textract was used to extract the text from the identified segments, facilitating efficient data processing and retrieval.</p>
+<p align= justify>YOLOv4 architecture was employed to enhance the identification of medical records for a hospital in Peru. Initially, images were extracted from PDF documents. Subsequently, YOLOv4 was utilized to identify and segment the clinical history sections within these images. Finally, AWS Textract was used to extract the text from the identified segments, facilitating efficient data processing and retrieval.</p>
 </div>
                                                                                       
 </td>
@@ -75,7 +75,7 @@ Leading projects of:
 </a>
 
 </p>
-</p>Llama-2 model was subjected to a fine-tuning process to optimize its performance in the identification and processing of natural language within medical records, with the aim of detecting variables relevant to CAC in Colombia. Due to privacy issues in data processing, only finne tuning is found in the code.</p>
+<p align= justify>Llama-2 model was subjected to a fine-tuning process to optimize its performance in the identification and processing of natural language within medical records, with the aim of detecting variables relevant to CAC in Colombia. Due to privacy issues in data processing, only finne tuning is found in the code.</p>
 </div>                                                             
 </table>                                                                                 
 </div>
