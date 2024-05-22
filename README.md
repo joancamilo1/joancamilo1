@@ -21,7 +21,7 @@ I have achieved notable successes in computer vision, LLMs fine-tuning, data min
 ### 👨🏻‍💼🔭 Currently working at Procesos Inteligentes LTDA. <br><br>
 Leading projects of:
    - Computer vision: Leading the automatic detection of medical records in a 150k image database for
-   for hospitals in Perú.
+   hospitals in Perú.
   - Data mining for fraud detection: Centralizing information on the delivery of POS and NON-POS
    medications.
    - LLMs Fine-tuning and Natural language processing (NLP): Generating monthly reports of 5k
