@@ -48,7 +48,7 @@ Leading projects of:
 
 <p>
 <a href="https://github.com/joancamilo1/Computer_vision_YoloV4" target="_blank">
-<img src="https://github.com/joancamilo1/joancamilo1/assets/105089010/e69ebe03-4bc2-4f1f-8114-cfaabd5dfac6"  style="height: 35px; border-radius: 5px">
+<img src="https://github.com/joancamilo1/joancamilo1/assets/105089010/aae52bed-124f-4b53-a1b9-7e7324f3a39c"  style="height: 35px; border-radius: 5px">
 </a>
 
 </p>
@@ -69,7 +69,7 @@ Leading projects of:
    
 <!--![image](https://github.com/joancamilo1/joancamilo1/assets/105089010/5d13e547-7c67-49b2-af10-195f54068d77)-->
 
-<img src="https://github.com/joancamilo1/joancamilo1/assets/105089010/e69ebe03-4bc2-4f1f-8114-cfaabd5dfac6"  style="height: 35px; border-radius: 5px">
+<img src="https://github.com/joancamilo1/joancamilo1/assets/105089010/576291d1-753b-44b8-a7a6-bbb2b8e3bb97"  style="height: 35px; border-radius: 5px">
 <!--<img src="https://github.com/joancamilo1/joancamilo1/assets/105089010/5d13e547-7c67-49b2-af10-195f54068d77">-->
 <!--<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">-->
 </a>
