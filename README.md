@@ -14,7 +14,7 @@
 
 # 💫 About Me:
 
-#### I'm a Mechatronics Engineer with a PgD. in Big Data Analytics and 2 years of experience leading analytical and data mining projects. Specialized in data science, excelling in Python 🐍, R 💻, knime ⚙️, snowflake ❄️, Power Bi 📊 and cloud technologies such as AWS EC2 and S3 ☁️.
+#### I'm a Mechatronics Engineer with a PgD. in Big Data Analytics and +2 years of experience leading analytical and data mining projects. Specialized in data science, excelling in Python 🐍, R 💻, knime ⚙️, snowflake ❄️, Power Bi 📊 and cloud technologies such as AWS EC2 and S3 ☁️.
 
 I have achieved notable successes in computer vision, LLMs fine-tuning, data mining, fraud detection, and natural language processing. Key competencies include data integration and modeling, as well as the creation and management of SQL databases.
 
