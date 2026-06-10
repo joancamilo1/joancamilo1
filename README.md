@@ -14,22 +14,33 @@
 
 # 💫 About Me:
 
-#### I'm a Mechatronics Engineer with a PgD. in Big Data Analytics and +2 years of experience leading analytical and data mining projects. Specialized in data science, excelling in Python 🐍, R 💻, knime ⚙️, snowflake ❄️, Power Bi 📊 and cloud technologies such as AWS EC2 and S3 ☁️.
+#### I'm a Mechatronics Engineer and Big Data Analytics Specialist with 4+ years of experience leading Artificial Intelligence, Data Science, Machine Learning, and Cloud Computing projects. My expertise spans Data Engineering, Generative AI, Large Language Models (LLMs), Computer Vision, Natural Language Processing (NLP), Speech Technologies, and AWS cloud solutions.
 
-I have achieved notable successes in computer vision, LLMs fine-tuning, data mining, fraud detection, and natural language processing. Key competencies include data integration and modeling, as well as the creation and management of SQL databases.
+Throughout my career, I have successfully delivered projects involving fraud detection, healthcare analytics, conversational AI, voicebots, intelligent automation, computer vision, and large-scale data integration. I specialize in designing end-to-end AI solutions, from data pipelines and model development to deployment, monitoring, and business integration.
 
-### 👨🏻‍💼🔭 Currently working at Procesos Inteligentes LTDA. <br><br>
-Leading projects of:
-   - Computer vision: Leading the automatic detection of medical records in a 150k image database for
-   hospitals in Perú.
-  - Data mining for fraud detection: Centralizing information on the delivery of POS and NON-POS
-   medications.
-   - LLMs Fine-tuning and Natural language processing (NLP): Generating monthly reports of 5k
-   patients and 170 responses for each one, reducing by 90% the time it took to do it manually.
-   - Data integration, modeling and visualization: Optimizing processes and improving decision making,
-   through the successful implementation of ETL and visualizations for multiple Colombian EPS's
- 
-👯 I’m looking to collaborate on: Innovative projects involving data analytics, machine learning, and artificial intelligence that require expertise in Python, AWS, and cloud computing.<br><br>🤝 I’m looking for help with: Enhancing my skills in advanced machine learning techniques and exploring new tools for big data processing and visualization.<br><br>🌱 I’m currently learning: Advanced applications of machine learning and deep learning, as well as exploring new cloud services and ETL tools.<br><br>💬 Ask me about: Data Mining, Data science projects, machine learning algorithms, cloud computing with AWS and Azure, and my experience with ETL processes.<br><br>⚡ I have a keen interest in how computational neuroscience intersects with artificial intelligence to solve complex data problems.
+### 👨🏻‍💼🔭 Currently working as Data Scientist at Integral Group Solution (IGS)
+
+Leading strategic AI initiatives focused on:
+
+* **Conversational AI & VoiceBots:** Designing and deploying intelligent voice and text agents capable of sales, customer retention, customer service, and information management through phone calls and WhatsApp.
+* **Generative AI & LLMs:** Developing AI assistants powered by Large Language Models, Retrieval-Augmented Generation (RAG), prompt engineering, fine-tuning techniques, and workflow automation.
+* **Speech Technologies:** Implementing Speech-to-Text (STT) and Text-to-Speech (TTS) systems for real-time conversational experiences.
+* **Cloud Architecture:** Building scalable AI solutions using AWS services such as EC2, Lambda, S3, DynamoDB, RDS, Connect, and API-based integrations.
+* **Machine Learning & Analytics:** Creating intelligent evaluation systems for telemarketing agents, customer interactions, and operational performance optimization.
+* **Data Engineering & APIs:** Developing ETL pipelines, data architectures, backend services, and APIs that connect AI systems with enterprise applications and cloud services.
+
+Previously, I led projects involving computer vision for healthcare, fraud detection through data mining, NLP-based medical report automation, and business intelligence solutions for major healthcare organizations in Colombia and Peru.
+
+👯 I’m looking to collaborate on: AI Agents, VoiceBots, Generative AI, Machine Learning, Cloud Architecture, and innovative Data Science projects.
+
+🤝 I’m looking for help with: Advanced AI architectures, multi-agent systems, MLOps, scalable LLM deployments, and cutting-edge Generative AI technologies.
+
+🌱 I’m currently learning: Agentic AI systems, advanced LLM orchestration, AWS cloud-native architectures, and production-ready AI deployments.
+
+💬 Ask me about: Data Science, Machine Learning, Generative AI, VoiceBots, LLMs, NLP, AWS, ETL processes, API development, cloud architecture, and AI solution design.
+
+⚡ Passionate about building intelligent systems that combine data, language, voice, and automation to solve real-world business challenges.
+
 
 
 # 💻 Tech Stack:
